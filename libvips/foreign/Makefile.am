@@ -52,7 +52,10 @@ libforeign_la_SOURCES = \
 	jpeg2vips.c \
 	jpeg.h \
 	jpegload.c \
-	jpegsave.c 
+	jpegsave.c \
+	pds.h \
+	pds.c \
+	pdsload.c
 
 EXTRA_DIST = 
 
